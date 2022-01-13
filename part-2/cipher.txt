@@ -1,4 +1,4 @@
-cipher switches every other character
+The Cipher switches every other character
 
 abcdefghijklmnopqrstuvwxyz
 zxcvbnmasdfghjklqwertyuiop
